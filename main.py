@@ -96,3 +96,4 @@ while not sair:
                 print("\n| Opção inválida.\n")
                 time.sleep(1)
                 limpatela()
+                
